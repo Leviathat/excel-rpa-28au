@@ -1,0 +1,5 @@
+appdirs==1.4.4
+asgiref==3.3.4
+filelock==3.0.12
+virtualenv==20.4.4
+XlsxWriter==3.0.1
